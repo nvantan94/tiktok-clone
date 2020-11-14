@@ -1,2 +1,2 @@
 # tiktok-clone
-A tiktok clone app using reactjs
+Front-end part of tiktok clone application using reactjs
