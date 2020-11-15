@@ -1,4 +1,5 @@
 import React, { useRef, useState } from 'react'
+import VideoFooter from '../VideoFooter/VideoFooter';
 import './Video.css';
 
 function Video() {
@@ -25,6 +26,7 @@ function Video() {
         ref={videoRef}
       >
       </video>
+      <VideoFooter />
     </div>
   )
 }
