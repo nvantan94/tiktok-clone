@@ -1,0 +1,10 @@
+.video__wrapper {
+  scroll-snap-align: start;
+  height: 100%;
+  width: 100%;
+}
+
+.video__wrapper > .video {
+  object-fit: fill;
+  height: 100%;
+}
